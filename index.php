@@ -41,4 +41,6 @@ $moto->ano = 2017;
 
 $moto->Parar();
 
+// Incluindo linha teste para GIT
+
 ?>
